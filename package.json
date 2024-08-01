@@ -55,5 +55,8 @@
   },
   "peerDependencies": {
     "oceanic.js": ">=1.10.0"
+  },
+  "dependencies": {
+    "@oceanicjs/builders": "file:"
   }
 }
